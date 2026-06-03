@@ -3,9 +3,4 @@ Paper Title: Features Extraction and Predicting Paroxysmal Atrial Fibrillation O
 Abstract:
 The early prediction of acute disorder onset has become crucial in smart screening cyber-physical systems for healthcare. Despite the growing demand for accurate paroxysmal atrial fibrillation (PAF) onset prediction, the underlying triggering mechanisms remain inadequately understood. Previous studies have primarily focused on predicting PAF onset using morphological-temporal features of surface electrocardiograms (ECG) or heart rate variability metrics as inputs for machine learning and deep learning models. However, these approaches lack sufficient clinical interpretability, particularly regarding the triggering mechanisms of PAF onset. This study aims to: 1) analyze the Weighted Sum (WSUM) feature, PAC Density and PAC Burden Features, which quantify the accumulation pattern of premature atrial contractions (PACs) preceding a PAF episode, and 2) propose a predictive model leveraging the Stacking Generalization to forecast PAF onset. By incorporating WSUM, PAC Density and PAC Burden features, our approach provides deeper insights into the mechanisms of PAF initiation, enhancing the understanding of arrhythmia progression and informing more effective treatment strategies. Experimental results demonstrate the model’s reliability, achieving 92.38% accuracy in predicting PAF onset 30 minutes in advance.
 
-Authors:
-     - cuc.buithi@phenikaa-uni.edu.vn (Primary)
-     - tan.tranduc@phenikaa-uni.edu.vn
-     - nghiatd@ioit.ac.vn
-     - phamminhson08@gmail.com
-     -  diepcd@epu.edu.vn
+
